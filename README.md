@@ -1,4 +1,4 @@
-# Micro Gas Turbine Electrical Power Prediction using DL
+# Electrical Power Prediction of Micro Gas Turbine using DL
 # Problem Statement
 Gas turbines play a critical role in energy production, and the dynamic relationships between input control signals and output power responses are complex. Existing physical models often cannot accurately predict the entire behavior of the system or are too complex. This project aims to improve modeling accuracy and enhance decision support processes in energy systems by predicting turbine behavior using a data-driven approach. The source of motivation is the lack of data-driven time series modeling in the literature and the need for precise predictions in the industry. 
 # Dataset Description
