@@ -69,10 +69,10 @@ Each model consists of:
 # Technologies Used
 Python:
   NumPy, Pandas
-  Matplotlib, Seaborn
-  Scikit-learn
-  TensorFlow / Keras
-  Jupyter Notebook
+  Matplotlib, Seaborn,
+  Scikit-learn,
+  TensorFlow / Keras,
+  Jupyter Notebook.
 # Results and Discussion
 1- Training Dynamics and Convergence:
   LSTM showed the most stable and smooth convergence, with closely aligned training and validation loss curves. This indicates strong generalization and effective learning of long-term dependencies.
