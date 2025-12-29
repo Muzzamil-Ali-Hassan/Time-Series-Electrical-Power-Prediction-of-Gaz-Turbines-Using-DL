@@ -79,10 +79,6 @@ Python:
   GRU converged faster than LSTM, achieving low loss within fewer epochs. Its simpler gating mechanism offers computational efficiency while maintaining strong performance.
   RNN exhibited slower convergence and mild instability, reflecting its limited ability to handle long-term dependencies and susceptibility to vanishing gradients.
 2- Predictive Performance on Test Data:
-| Model| RMSE (Watts) | MAE (Watts) |
-| LSTM | 346.207      | 201.098 |
-| GRU  | 355.758      | 199.502 |
-| RNN  | 352.778      | 213.305 |
   LSTM achieved the lowest RMSE, indicating superior handling of large prediction errors.
   GRU achieved the lowest MAE, suggesting slightly better average error performance.
   RNN showed the weakest performance overall.
